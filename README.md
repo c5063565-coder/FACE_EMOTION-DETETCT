@@ -106,8 +106,8 @@ After training, the following evaluation outputs are generated:
 
 Example:
 
-```python
-Image("result/confusion matrix.png", width=600)
+```
+<img src="assets/confusion_matrix.png" width="600">
 ```
 
 ```python
