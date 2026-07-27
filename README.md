@@ -116,6 +116,12 @@ Example:
 <img src="result/results.png" width="600">
 
 
+- Label Distribution
+- 
+<img src="result/Labels.jpg" width="600">
+
+
+
 ---
 
 ## Supported Emotions
