@@ -57,14 +57,6 @@ dataset = version.download("yolov11")
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/emotion-detection.git
-cd emotion-detection
-```
 
 Install dependencies:
 
@@ -75,21 +67,6 @@ pip install opencv-python
 pip install torch torchvision
 ```
 
----
-
-## Project Structure
-
-```
-Emotion-Detection/
-│
-├── Emotion_detection.ipynb
-├── dataset/
-├── runs/
-│   └── detect/
-│       └── train/
-├── README.md
-└── requirements.txt
-```
 
 ---
 
