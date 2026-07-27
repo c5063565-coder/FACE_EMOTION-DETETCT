@@ -106,14 +106,16 @@ After training, the following evaluation outputs are generated:
 
 Example:
 
+- Confusion Matrix
 
 <img src="result/confusion matrix.png" width="600">
 
-result/results.png
 
-```
+- Model Performance Analysis 
+<img width="765" height="123" alt="image" src="https://github.com/user-attachments/assets/a9303142-3371-4b16-bbf4-2df0a955359c" />
+
 <img src="result/results.png" width="600">
-```
+
 
 ---
 
