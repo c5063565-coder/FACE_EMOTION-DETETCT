@@ -106,9 +106,9 @@ After training, the following evaluation outputs are generated:
 
 Example:
 
-```
-<img src="assets/confusion_matrix.png" width="600">
-```
+
+<img src="result/confusion matrix.png" width="600">
+
 
 ```python
 Image("/content/runs/detect/train/labels.jpg", width=600)
