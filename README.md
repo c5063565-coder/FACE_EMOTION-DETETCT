@@ -112,7 +112,6 @@ Example:
 
 
 - Model Performance Analysis 
-<img width="765" height="123" alt="image" src="https://github.com/user-attachments/assets/a9303142-3371-4b16-bbf4-2df0a955359c" />
 
 <img src="result/results.png" width="600">
 
