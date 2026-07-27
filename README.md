@@ -117,7 +117,7 @@ Example:
 
 
 - Label Distribution
-- 
+
 <img src="result/Labels.jpg" width="600">
 
 
