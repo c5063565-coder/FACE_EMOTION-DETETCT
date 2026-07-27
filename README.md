@@ -109,9 +109,10 @@ Example:
 
 <img src="result/confusion matrix.png" width="600">
 
+result/results.png
 
-```python
-Image("/content/runs/detect/train/labels.jpg", width=600)
+```
+<img src="result/results.png" width="600">
 ```
 
 ---
